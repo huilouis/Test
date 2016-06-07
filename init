@@ -1,0 +1,2 @@
+ echo Hello World > 1.txt
+ type f1.txt
